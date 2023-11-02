@@ -81,7 +81,7 @@ Multiple line content added here for third item
 ###### Unordered task list:
 - [x] Item1  
 - [x] Item2  
-    - [x]content1  
+    - [x] content1  
     - [] content2  
     - [x] content3  
 - [x] Item3
